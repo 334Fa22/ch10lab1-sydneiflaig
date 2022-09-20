@@ -242,7 +242,7 @@ footer a {
     display: block;
   }
 
-  .mobile-nav {
+  .mobile, .moblie-nav {
     display: none;
   }
 
